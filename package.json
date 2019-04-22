@@ -1,0 +1,19 @@
+{
+  "name": "mailchimp-api-batch",
+  "version": "1.0.0",
+  "description": "Mailchimp API Batch Operation for Update",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Yen-Ting Wang",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "commander": "^2.20.0",
+    "csv": "^5.1.1",
+    "inquirer": "^6.3.1",
+    "md5": "^2.2.1",
+    "parse": "^2.3.2",
+    "selenium-webdriver": "^4.0.0-alpha.1"
+  }
+}
