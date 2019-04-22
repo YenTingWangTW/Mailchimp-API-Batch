@@ -10,4 +10,3 @@
 * [Mailchimp API Docs](https://developer.mailchimp.com/documentation/mailchimp/reference/overview/)
 * [Mailchimp Website](http://mailchimp.com/)
 
-##### ` Everything is done through API only. No library is used.`
