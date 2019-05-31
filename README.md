@@ -4,7 +4,7 @@
 ### Task:
 * Update existing email accounts status (Subscribed/Unsubscribed/Cleaned)
 * Add (Remove) Tags to existing email accounts
-* `All the above have to be done through batch operation`
+#### `All the above have to be done through batch operation`
 
 ### Approach:
 * Create a Mailchimp API request template - generic function - **doBatch**
