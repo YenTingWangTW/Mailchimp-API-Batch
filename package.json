@@ -8,7 +8,7 @@
   "author": "Yen-Ting Wang",
   "license": "ISC",
   "dependencies": {
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "commander": "^2.20.0",
     "csv": "^5.1.1",
     "inquirer": "^6.3.1",
